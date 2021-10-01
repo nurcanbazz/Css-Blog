@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color:whitesmoke;
+
+}
+.container{
+    border: 4px solid lightseagreen;
+    border-radius: 5px;
+    width:910px;
+    height:215px;
+    margin: auto;
+    margin-top: 50px;
+    
+    
+    
+}
+
+#img{
+    padding: 10px;
+    float: left;
+    
+    
+}
+
+#title{
+    text-align:center;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    font-style: italic;
+    
+    
+}
+
+p{
+
+    padding: 0px , 30px,30px,30px;
+    font-style: italic;
+    
+    
+    
+    
+}
+
